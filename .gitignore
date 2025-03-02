@@ -1,3 +1,5 @@
 NoughtsAndCrosses/bin
 NoughtsAndCrosses/obj
 NoughtsAndCrosses/*.user
+NoughtsAndCrosses/wwwroot/lib
+.vs
